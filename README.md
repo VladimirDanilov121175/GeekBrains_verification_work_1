@@ -11,7 +11,7 @@ ___
 
 Примеры:  
 
-```
+```text
 ["hello", "2", "world", ":-)"]              ->  ["2", ":-)"]  
 ["1234", "-2", "computer science", "****"]  ->  ["-2"]
 ["Kazan", "Moscow", "Cheboksary"]           ->  []
